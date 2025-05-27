@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificando Josias
+=======
+modificando mi propio archivo
+>>>>>>> 97f331e39e9a2c7891b5e19706b46486ed8a5258
