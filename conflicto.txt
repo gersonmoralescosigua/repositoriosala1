@@ -1,2 +1,6 @@
 Línea agregada por Sergio Gomez
+<<<<<<< HEAD
 buenas tardes, modificando el archivo conflicto por Josias
+=======
+Modificando archivo por Gersom
+>>>>>>> 5014619f93797a9d43f4138e8708a9bca3624e43
